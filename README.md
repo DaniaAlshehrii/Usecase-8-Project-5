@@ -39,7 +39,7 @@ This chart shows the highest stock values for 5 companies.
 STC, Alinma, Samba, SABIC and Al-Awwal have the highest market value on the Tadawul platform.
 
 ### Model Selection:
-- BDSCAN
+- DBSCAN
 - Agglomerative Clustering
 - Principal Component Analysis (PCA)
 
