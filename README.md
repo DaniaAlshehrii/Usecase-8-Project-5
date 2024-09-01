@@ -17,21 +17,23 @@ This project focused on analyzing and clustering Saudi stock market companies ba
 The dataset comprises stock trading data for various companies, including features like `Opening`, `Top`, `Lowest`, `Closing`, `Change`, `Change %`, `Traded Quantity`, and `Trading value (SAR)`. The dataset was sourced from “Saudi Tadawul” (conducts listing and trading in securities for local and international investors. The Exchange is instrumental to achieving the long-term growth plans for the Group and providing market participants with attractive and diversified investment opportunities.)
 Home (saudiexchange.sa)
 
-(p6)
 
-The dataset after scraping
+![Alt text](p6.png)The dataset after scraping
 Tadawul (kaggle.com)
 
 
 ### Data visualization: 
-(p1) 
+![Alt text](p1.png)
 Alam is the highest priced company, as it started with the highest opening at 850 and closed at 1002.
 
-(p2)
+![Alt text](p2.png)
 Most of the change was within 20% profit or loss, and the positive change was more than the negative change and reached 100%.
 
-(p3)
+![Alt text](p3.png)
+
 This chart shows the highest stock values for 5 companies. 
+
+![Alt text](p4.png)
 
 (p4)
 STC, Alinma, Samba, SABIC and Al-Awwal have the highest market value on the Tadawul platform.
@@ -61,18 +63,18 @@ Linkage Method: Used `ward` linkage, which minimizes the variance within each cl
 Silhouette Score: 0.415
 Davies-Bouldin Index (DBI): 1.978
 Cluster Size Distribution:
-(p6)
-(p7)
-(p8)
+![Alt text](p6.png)
+![Alt text](p7.png)
+![Alt text](p8.png)
 
 - In agglomerative Clustering:
 Silhouette Score: 0.621 
 Davies-Bouldin Index (DBI): 0.576
 Cluster Size Distribution:
-(p9)
+![Alt text](p9.png)
 
 Dendrogram for agglomerative mode:
-(p10)
+![Alt text](p9.png)
 
 ### Best Model Determination:
 The agglomerative Clustering model was selected as the best-performing model based on the lowest Davies-Bouldin Index (0.576) and the highest Silhouette Score (0.621). This model demonstrated the most distinct and well-separated clusters.
