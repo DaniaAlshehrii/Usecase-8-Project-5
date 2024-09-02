@@ -35,7 +35,7 @@ This chart shows the highest stock values for 5 companies.
 
 ![image](https://github.com/user-attachments/assets/950fc16e-a926-407b-a94f-a7b7dfc58d8a)
 
-(p4)
+
 Saudi Aramco dominates with over 2 billion SAR in trading value, highlighting its market leadership, while the banking sector also shows significant investor interest, with Al Rajhi Bank and Al Ahli Bank both exceeding 1 billion SAR.
 
 ### Model Selection:
