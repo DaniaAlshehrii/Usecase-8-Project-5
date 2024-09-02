@@ -33,10 +33,10 @@ Most of the change was within 20% profit or loss, and the positive change was mo
 
 This chart shows the highest stock values for 5 companies. 
 
-![Alt text](p4.png)
+![image](https://github.com/user-attachments/assets/950fc16e-a926-407b-a94f-a7b7dfc58d8a)
 
 (p4)
-STC, Alinma, Samba, SABIC and Al-Awwal have the highest market value on the Tadawul platform.
+Saudi Aramco dominates with over 2 billion SAR in trading value, highlighting its market leadership, while the banking sector also shows significant investor interest, with Al Rajhi Bank and Al Ahli Bank both exceeding 1 billion SAR.
 
 ### Model Selection:
 - DBSCAN
